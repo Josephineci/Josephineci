@@ -1,4 +1,4 @@
-# Josephine is my name, and Automation is my Aim. 👋🏾
+# Josephine is my name, and Automation is my Aim. 
 <a href="https://www.linkedin.com/in/josephinezola/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a dedicated Platform Engineer and Kubernetes Administrator, passionate about helping businesses enhance their applications' efficiency and performance through automated solutions. 
