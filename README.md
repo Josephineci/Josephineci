@@ -1,7 +1,7 @@
 # Josephine is my name, and Automation is my Aim
 <a href="https://www.linkedin.com/in/josephinezola/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a dedicated Platform Engineer and Kubernetes Administrator, passionate about helping businesses enhance their applications' efficiency and performance through automated solutions. 
+I'm a dedicated Platform Engineer and Kubernetes Administrator, passionate about helping businesses enhance their applications' efficiency and performance through automated solutions. I'm currently enrolled in a graduate certificate program in Cybersecurity Technology at the University of Maryland.
 
 <a href="https://images.app.goo.gl/MzDgZfzHA81A17Fq6" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" alt="DevOps Image" width="300" height="200" >
